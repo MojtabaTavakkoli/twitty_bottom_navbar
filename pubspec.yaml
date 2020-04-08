@@ -1,8 +1,8 @@
 name: bottomtwittynavigationbar
 description: A bottom navigation with twitter like effect.
 version: 0.0.1
-author:
-homepage:
+author: Mojtaba Tavakkoli
+homepage: https://github.com/MojtabaTavakkoli
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
